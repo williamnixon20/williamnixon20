@@ -1,5 +1,7 @@
-## Hi there 👋
+# William Nixon 🌟
 
+## Hi there 👋
+🚀 Final-year Computer Science student at Bandung Institute of Technology (ITB)  
 <!--
 **williamnixon20/williamnixon20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
