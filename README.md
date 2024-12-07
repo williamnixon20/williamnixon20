@@ -1,9 +1,11 @@
-# William Nixon 🌟
-
 ## Hi there 👋
-🚀 Final-year Computer Science student at Bandung Institute of Technology (ITB)
+🚀 Final-year Computer Science undergrad at Bandung Institute of Technology (ITB)
+🌟 Interested about systems in general
+🎓 Prepping for the next chapter of research in graduate school — excited for the new directions to come!  
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/williamnixon20?cardType=level-alternate&theme=blue-green&preferLogin=false)](https://git.io/awesome-stats-card)
+## Let’s Connect!  
+📫 [williamnixon20@gmail.com](mailto:williamnixon20@gmail.com)  
+
 <!--
 **williamnixon20/williamnixon20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
