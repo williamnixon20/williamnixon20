@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🚀 Final-year Computer Science undergrad at Bandung Institute of Technology (ITB)
-- 🌟 Interested about systems in general
-- 🎓 Prepping for the next chapter of research in graduate school — excited for the new directions to come!  
+- 🌟 Interested about computer systems in general
+- 🎓 Currently prepping for graduate school, excited for what's to come!  
 
 ## Let’s Connect!  
 📫 [williamnixon20@gmail.com](mailto:williamnixon20@gmail.com)  
