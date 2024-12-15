@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🚀 Final-year Computer Science undergrad at Bandung Institute of Technology (ITB)
-- 🌟 Interested about computer systems in general
+- 🌟 Interested in computer systems
 - 🎓 Currently prepping for graduate school, excited for what's to come!  
 
 ## Let’s Connect!  
