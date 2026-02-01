@@ -1,3 +1,4 @@
+<!--
 ## Hi there 👋
 - 🚀 Final-year Computer Science undergrad at Bandung Institute of Technology (ITB)
 - 🌟 Interested in computer systems
@@ -6,7 +7,6 @@
 ## Let’s Connect!  
 📫 [williamnixon20@gmail.com](mailto:williamnixon20@gmail.com)  
 
-<!--
 **williamnixon20/williamnixon20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
